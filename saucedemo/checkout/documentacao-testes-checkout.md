@@ -27,7 +27,7 @@ O objetivo é validar a integridade do fluxo de compra, garantindo que o usuári
     5. Clicar em "Finish".
 * **Resultado Esperado:** Exibição da mensagem "Thank you for your order!" URL "https://www.saucedemo.com/checkout-complete.html", carrinho zerar, aparecer botao "Back Home".
 * **STATUS FINAL:** ✅ PASSOU.
-* **Evidência:** [print da tela "Thank you for your order!"]
+* **Evidência:** * **Evidência:** ![CT-001](../evidencias/ct%20001.png)
 
 ---
 

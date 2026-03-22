@@ -52,7 +52,7 @@ O objetivo é validar a integridade do fluxo de compra, garantindo que o usuári
     3. Clicar em "Remove" no produto.
 * **Resultado Esperado:** O produto é removido, a lista do carrinho fica vazia e o contador do ícone some.
 * **STATUS FINAL:** ✅ PASSOU.
-* **Evidência:** [print do carrinho vazio]
+* **Evidência:** ![CT-003](../evidencias/ct%20003.png)
 
 ---
 
@@ -67,7 +67,7 @@ O objetivo é validar a integridade do fluxo de compra, garantindo que o usuári
     5. Clicar no ícone do carrinho.
 * **Resultado Esperado:** O item adicionado antes do logout ainda está no carrinho.
 * **STATUS FINAL:** ✅ PASSOU.
-* **Evidência:** [print do carrinho com o item após novo login]
+* **Evidência:** ![CT-004](../evidencias/ct%20004.png)
 
 ---
 
@@ -82,7 +82,7 @@ O objetivo é validar a integridade do fluxo de compra, garantindo que o usuári
     5. Clicar em "Continue".
 * **Resultado Esperado:** Sistema bloqueia o avanço e exibe mensagem de erro indicando campo obrigatório.
 * **STATUS FINAL:** ✅ PASSOU.
-* **Evidência:** [print da mensagem de erro]
+* **Evidência:** ![CT-005](../evidencias/ct%20005.png)
 
 ---
 
@@ -96,7 +96,7 @@ O objetivo é validar a integridade do fluxo de compra, garantindo que o usuári
     4. Clicar em "Continue".
 * **Resultado Esperado:** Sistema bloqueia o avanço e exibe mensagem de erro indicando campo obrigatório.
 * **STATUS FINAL:** ✅ PASSOU.
-* **Evidência:** [print da mensagem de erro]
+* **Evidência:** ![CT-006](../evidencias/ct%20006.png)
 
 ---
 
@@ -110,7 +110,7 @@ O objetivo é validar a integridade do fluxo de compra, garantindo que o usuári
     4. Clicar em "Continue".
 * **Resultado Esperado:** Sistema bloqueia o avanço e exibe mensagem de erro indicando campo obrigatório.
 * **STATUS FINAL:** ✅ PASSOU.
-* **Evidência:** [print da mensagem de erro]
+* **Evidência:** ![CT-007](../evidencias/ct%20007.png)
 
 ---
 
